@@ -1,0 +1,13 @@
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\bin\Debug\Selenium prvi test.exe.config
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\bin\Debug\Selenium prvi test.exe
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\bin\Debug\Selenium prvi test.pdb
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\bin\Debug\WebDriver.dll
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\obj\Debug\Selenium prvi test.csproj.AssemblyReference.cache
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\obj\Debug\Selenium prvi test.csproj.SuggestedBindingRedirects.cache
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\obj\Debug\Selenium prvi test.csproj.CoreCompileInputs.cache
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\obj\Debug\Selenium prvi test.csproj.CopyComplete
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\obj\Debug\Selenium prvi test.exe
+C:\Users\QA36\source\repos\Kodiranje\Selenium prvi test\Selenium prvi test\obj\Debug\Selenium prvi test.pdb
